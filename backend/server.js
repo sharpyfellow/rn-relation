@@ -11,9 +11,9 @@ connectDB();
 
 // Configure Cloudinary
 cloudinary.config({
-  cloud_name: 'dhb0lbi4w',
-  api_key: '977595166934669',
-  api_secret: 'ciHqHiRXP0PKaDJWTM-ap5QkJrw',
+  cloud_name: 'xxxx',
+  api_key: 'xxxx',
+  api_secret: 'xxxx',
 });
 
 
